@@ -1,0 +1,65 @@
+
+body{
+    height: 100%;
+}
+header{
+    font-family: 'Courier New', Courier, monospace;
+    size: 3em;
+    color: dodgerblue;
+    background-color: black;
+    height: 8em;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 3em;
+    margin-top: 0.5em; 
+    text-align: center;
+}
+main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#xml{
+    color: #F69E30;
+    margin-left: 125px;
+}
+#json{
+    color: #9777AB;
+    margin-left: 125px;
+}
+#svg{
+    color:#5153FF;
+    margin-left: 125px;
+}
+p{
+    color: dodgerblue;
+}
+a:hover{
+    color:white;
+}
+#name{
+    letter-spacing: 0.1em;
+}
+.card{
+    max-width: 350px;
+    max-height: 400px;
+    margin: 0.5em;
+    border-color: black;
+    border-radius: 10px;
+    border-style: groove;
+    background-color: black;
+}
+.imagenotlogo{
+    height: 262px;
+    width: 350px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.flexbox{
+    display: flex;
+    flex-wrap: nowrap;
+}
