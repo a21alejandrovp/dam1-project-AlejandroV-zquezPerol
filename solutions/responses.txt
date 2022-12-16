@@ -1,0 +1,2 @@
+The mail.json uses 555 bytes
+The mail.xml uses 880 bytes
