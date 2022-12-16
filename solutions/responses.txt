@@ -1,2 +1,6 @@
+Exercice 7
 The mail.json uses 555 bytes
 The mail.xml uses 880 bytes
+
+Exercice 11
+The correct answer is number 4 as we can see in line 9 (<name type="Oil" xmlns:depth="urn:trial:examB">)
